@@ -21,9 +21,10 @@ python-dotenv = "^1.0.0"
 numpy = "1.23.5"
 setuptools = "65.5.0"
 wheel = "0.38.4"
-#gym = "0.21.0"
 stable-baselines3 = "^1.8.0"
 tqdm = "^4.65.0"
+tianshou = "0.4.7"
+pyglet = "1.5.27"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.21.3"
